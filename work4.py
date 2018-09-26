@@ -1,0 +1,10 @@
+a,b,c=eval(input(">>"))
+s=[]
+s.append(a)
+s.append(b)
+s.append(c)
+#print(s)
+q=s
+#print(q)
+q.sort()
+print(q)
